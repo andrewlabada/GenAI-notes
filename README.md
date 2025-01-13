@@ -1,6 +1,6 @@
 # Databricks Gen AI Engineer (Associate) Exam Preparations
-\
-**Section 1: Design Applications (8 Questions)**\
+
+## **Section 1: Design Applications (8 Questions)**
 **Prompt Design**\
 1.) Design a prompt that asks an LLM to return customer service summaries in JSON format, including "Issue," "Resolution," and "Customer Feedback."\
 a. Provide a summary.\
@@ -56,3 +56,60 @@ a. Input → Retrieval → Summarization → Output\
 b. Retrieval → Input → Summarization → Output\
 c. Input → Summarization → Retrieval → Output\
 d. Summarization → Retrieval → Input → Output
+
+## Section 2: Data Preparation (8 Questions)
+**Chunking Strategies**\
+1.) What chunking strategy works best for a lengthy legal document?\
+a. Fixed-size chunking\
+b. Semantic-based chunking\
+c. Random chunking\
+d. Overlapping window chunking
+
+**Extraneous Content**\
+2.) Which content should be removed from a document being prepared for a RAG application?\
+a. Metadata\
+b. Formatting symbols\
+c. Advertisements\
+d. All of the above
+
+**Python Packages**\
+3.) Which Python package is most appropriate for extracting text from PDFs?\
+a. pandas\
+b. PyPDF2\
+c. NumPy\
+d. matplotlib
+
+**Delta Lake Integration**\
+4.) What operation is required to write chunked text into a Delta Lake table?\
+a. Insert chunks as individual rows.\
+b. Aggregate chunks into a single row.\
+c. Store as JSON blobs.\
+d. Combine text without chunking.
+
+**Document Selection**\
+5.) Which source document is most suitable for a financial RAG application?\
+a. A blog post about investing\
+b. Quarterly financial reports\
+c. A user-generated forum post\
+d. A Wikipedia article
+
+**Prompt/Response Alignment**\
+6.) Which pair best aligns with a text summarization task?\
+a. Input: Text, Output: Key points\
+b. Input: Question, Output: Answer\
+c. Input: Image, Output: Caption\
+d. Input: Text, Output: Sentiment score
+
+**Retrieval Metrics**\
+7.) Which metric is key for evaluating retrieval performance?\
+a. Latency\
+b. Recall\
+c. Storage capacity\
+d. Throughput
+
+**Filtering Techniques**\
+8.) How can irrelevant content from source data be effectively filtered?\
+a. Predefined keyword filters\
+b. Random sampling\
+c. Neural network classifiers\
+d. Both a and c
