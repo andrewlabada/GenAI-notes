@@ -122,3 +122,24 @@ Explanation: A combination of these strategies reduces the risk of legal issues.
 **6. b. Ensures compliance with legal requirements**\
 Explanation: Data governance focuses on legal and ethical data usage.
 
+## Section 6: Evaluation and Monitoring
+**1. d. Perplexity**\
+Explanation: Perplexity measures how well the model predicts the text, a key metric for summarization tasks.
+
+**2. b. Token usage per request**\
+Explanation: Monitoring token usage helps manage costs and optimize performance.
+
+**3. a. Experiment tracking**\
+Explanation: Experiment tracking provides insights into model performance under different conditions.
+
+**4. d. All of the above**\
+Explanation: Inference logging aids in debugging, assessing performance, and understanding user interactions.
+
+**5. a. Auto-scaling clusters**\
+Explanation: Auto-scaling optimizes resource usage and reduces costs.
+
+**6. d. All of the above**\
+Explanation: These factors influence the scalability and efficiency of RAG applications.
+
+**7. d. Both a and b**\
+Explanation: ROUGE measures relevance, while perplexity evaluates predictive performance.
