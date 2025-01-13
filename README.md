@@ -113,3 +113,65 @@ a. Predefined keyword filters\
 b. Random sampling\
 c. Neural network classifiers\
 d. Both a and c
+
+## Section 3: Application Development (8 Questions)
+**Data Extraction Tools**\
+1.) What tool is best for extracting customer data stored in an unstructured JSON file?\
+a. pandas\
+b. LangChain JSONLoader\
+c. PyPDF2\
+d. spaCy
+
+**LangChain Tools**\
+2.) Which LangChain module is best for constructing a chatbot that retrieves data from a knowledge base?\
+a. Chains\
+b. Memory\
+c. Agents\
+d. Prompts
+
+**Prompt Formats**\
+3.) How can changing the prompt format affect model outputs?\
+a. Improves the model's accuracy without retraining\
+b. Guarantees deterministic results\
+c. Alters the structure and relevance of responses\
+d. Reduces inference latency
+
+**Response Assessment**\
+4.) What is the most common issue when evaluating LLM responses for safety?\
+a. Irrelevant outputs\
+b. Hallucinations\
+c. Overfitting\
+d. Tokenization errors
+
+**Prompt Augmentation**\
+5.) Which technique can augment prompts with user context?\
+a. Appending relevant terms and intents to the prompt\
+b. Embedding user context into vectors\
+c. Using a different LLM for context\
+d. Random sampling
+
+**LLM Guardrails**\
+6.) How would you implement guardrails to prevent an LLM from generating harmful outputs?\
+a. By filtering prompts with a blacklist\
+b. By setting response length limits\
+c. By using safety filters like moderation APIs\
+d. All of the above
+
+**Metaprompts**\
+7.) What is the goal of a metaprompt?\
+a. Improve the model's speed\
+b. Minimize hallucinations and ensure compliance\
+c. Enhance token embedding accuracy\
+d. Generate better embeddings
+
+**Model Selection**\
+8.) When choosing an LLM for a customer support chatbot, what attribute is most important?\
+a. Context length\
+b. Generation speed\
+c. Training dataset size\
+d. Tokenizer efficiency
+
+
+
+
+
