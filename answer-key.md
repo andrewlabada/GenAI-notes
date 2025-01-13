@@ -49,3 +49,30 @@ Explanation: Recall measures how well relevant documents are retrieved, critical
 
 8. **d. Both a and c**\
 Explanation: Keyword filters and classifiers are effective for filtering irrelevant content.
+
+
+## Section 3: Application Development
+**1. b. LangChain JSONLoader**\
+Explanation: This module is tailored for extracting data from JSON files.
+
+**2. c. Agents**\
+Explanation: LangChain agents manage interactions with external knowledge bases.
+
+**3. c. Alters the structure and relevance of responses**\
+Explanation: Prompt formats guide the model to produce more relevant or structured outputs.
+
+**4. b. Hallucinations**\
+Explanation: Hallucinations occur when the model generates incorrect or irrelevant outputs.
+
+**5. a. Appending relevant terms and intents to the prompt**\
+Explanation: Adding user context improves relevance and specificity in model responses.
+
+**6. d. All of the above**\
+Explanation: Combining various guardrail techniques ensures robust safety measures.
+
+**7. b. Minimize hallucinations and ensure compliance**\
+Explanation: Metaprompts focus on guiding the model to produce safer, more accurate outputs.
+
+**8. a. Context length**\
+Explanation: A longer context length allows the chatbot to understand and respond effectively to longer user interactions.
+
