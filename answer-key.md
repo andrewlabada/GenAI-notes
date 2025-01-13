@@ -76,3 +76,28 @@ Explanation: Metaprompts focus on guiding the model to produce safer, more accur
 **8. a. Context length**\
 Explanation: A longer context length allows the chatbot to understand and respond effectively to longer user interactions.
 
+
+## Section 4: Assembling and Deploying Applications
+**1. a. Data normalization**\
+Explanation: Pre-processing ensures data is consistent and suitable for model inputs.
+
+**2. d. All of the above**\
+Explanation: These are standard techniques for securing endpoint access in Databricks.
+
+**3. b. Simplifying workflows for LLM tasks**\
+Explanation: LangChain chains help streamline complex workflows involving LLMs.
+
+**4. a. Embedding model, retriever, input, and model signature**\
+Explanation: These components are essential for constructing a functional RAG application.
+
+**5. b. Model metadata registration**\
+Explanation: Registering models with metadata is necessary for proper cataloging and management.
+
+**6. a. Cosine similarity**\
+Explanation: Cosine similarity measures vector similarity, which is key in vector search indexing.
+
+**7. a. Serve the endpoint via APIs**\
+Explanation: Serving the endpoint makes the application accessible to users.
+
+**8. d. All of the above**\
+Explanation: These resources are vital for efficiently serving RAG applications.
