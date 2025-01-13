@@ -1,5 +1,7 @@
 # Databricks Gen AI Engineer Associate Exam - New Mock Exam Set
+
 ## Section 1: Design Applications (10 Questions)
+
 **Prompt Design for AI Applications**\
 1. A company wants an AI tool to extract key action points from meeting transcripts. Which prompt design ensures optimal results?\
 a. "Summarize the meeting notes."\
