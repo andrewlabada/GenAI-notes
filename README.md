@@ -171,7 +171,155 @@ b. Generation speed\
 c. Training dataset size\
 d. Tokenizer efficiency
 
+## Section 4: Assembling and Deploying Applications (8 Questions)
+**PyFunc Chains**\
+1.) Which pre-processing step is critical in a PyFunc model chain?\
+a. Data normalization\
+b. Model fine-tuning\
+c. Endpoint registration\
+d. Token optimization
 
+**Access Control**
+2.) How can access to model-serving endpoints be restricted in Databricks?\
+a. API tokens\
+b. IP allowlists\
+c. Role-based access control (RBAC)\
+d. All of the above
+
+**LangChain Integration**\
+3.) What is the primary purpose of LangChain chains?\
+a. Data visualization\
+b. Simplifying workflows for LLM tasks\
+c. Creating embeddings\
+d. Document classification
+
+**RAG Application Basics**\
+4.) What are the essential components of a Retrieval-Augmented Generation (RAG) application?\
+a. Embedding model, retriever, input, and model signature\
+b. Model flavor, hyperparameters, and a data warehouse\
+c. Model type, cache system, and API gateway\
+d. None of the above
+
+**Unity Catalog**
+5.) What operation is necessary to register an LLM with Unity Catalog?\
+a. Model deployment\
+b. Model metadata registration\
+c. API token generation\
+d. Endpoint creation
+
+**Vector Index Querying**\
+6.) What technique is used to query a vector search index?\
+a. Cosine similarity\
+b. Linear regression\
+c. Clustering\
+d. Keyword search
+
+**Endpoint Deployment**\ 
+7.) What is the final step in deploying an endpoint for a basic RAG application?\
+a. Serve the endpoint via APIs\
+b. Optimize embeddings\
+c. Evaluate retrieval metrics\
+d. Write a user guide
+
+**Serving Applications**\
+8.) Which resource is critical for serving features in a RAG application?\
+a. Distributed vector databases\
+b. GPU instances\
+c. Memory-optimized clusters\
+d. All of the above
+
+## Section 5: Governance (6 Questions)
+**Masking Techniques**\
+1.) Which masking technique would prevent sensitive data from being exposed during training?\
+a. Regex-based masking\
+b. Tokenization\
+c. Data obfuscation\
+d. All of the above
+
+**Guardrail Techniques**\
+2.) What is the best guardrail technique for handling malicious input?\
+a. Prompt validation\
+b. Input sanitization\
+c. Embedding inspection\
+d. Both a and b
+
+**Text Mitigation**\
+3.) What is a suitable alternative for mitigating problematic text in data sources?\
+a. Custom filter models\
+b. Manual redaction\
+c. Predefined sanitization scripts\
+d. All of the above
+
+**Licensing and Compliance**\
+4.) What is the most important licensing requirement for data sources in a RAG application?\
+a. Open access policy\
+b. Clear documentation\
+c. Legal compliance\
+d. Cost efficiency
+
+**Legal Risk**\
+5.) How can you mitigate legal risks when using proprietary data?\
+a. Obtain explicit licensing agreements\
+b. Use anonymized data\
+c. Regularly review data policies\
+d. All of the above
+
+**Data Governance**\
+6.) What is the key benefit of implementing data governance in a Gen AI application?\
+a. Reduces training costs\
+b. Ensures compliance with legal requirements\
+c. Improves retrieval performance\
+d. Increases model accuracy
+
+## Section 6: Evaluation and Monitoring (7 Questions)
+**Model Metrics**\
+1.) Which metric is most critical for choosing an LLM for document summarization?\
+a. BLEU score\
+b. F1 score\
+c. Latency\
+d. Perplexity
+
+**Monitoring Metrics**\
+2.) What metric is essential for monitoring an LLM in production?\
+a. Accuracy\
+b. Token usage per request\
+c. Memory allocation\
+d. Cache hit ratio\
+
+**Model Evaluation**\
+3.) What feature of MLflow is most useful for evaluating model performance in a RAG application?\
+a. Experiment tracking\
+b. Model versioning\
+c. Data lineage\
+d. Visualization
+
+**Inference Logging**\
+4.) Why is inference logging critical for deployed applications?\
+a. Helps debug errors\
+b. Tracks user activity\
+c. Assesses real-world model performance\
+d. All of the above
+
+**Cost Control**\
+5.) Which Databricks feature helps control LLM costs for RAG applications?\
+a. Auto-scaling clusters\
+b. Unity Catalog\
+c. Model serving limits\
+d. Fine-tuning optimizations
+
+**Scaling Considerations**\
+6.) When scaling a RAG application, which is the primary concern?\
+a. Index size\
+b. Retrieval latency\
+c. Context window size\
+d. All of the above
+
+**Quantitative Metrics**\
+7.) What quantitative metric helps select an LLM for high-accuracy query response tasks?\
+a. ROUGE score\
+b. Perplexity\
+c. Latency\
+d. Both a and b
 
 
 
