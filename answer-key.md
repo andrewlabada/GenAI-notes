@@ -101,3 +101,24 @@ Explanation: Serving the endpoint makes the application accessible to users.
 
 **8. d. All of the above**\
 Explanation: These resources are vital for efficiently serving RAG applications.
+
+
+## Section 5: Governance
+**1. d. All of the above**\
+Explanation: Masking techniques help prevent sensitive data leakage.
+
+**2. d. Both a and b**\
+Explanation: Prompt validation and input sanitization help protect against malicious inputs.
+
+**3. d. All of the above**\
+Explanation: Multiple methods can mitigate problematic text effectively.
+
+**4. c. Legal compliance**\
+Explanation: Ensuring legal compliance avoids potential legal risks.
+
+**5. d. All of the above**\
+Explanation: A combination of these strategies reduces the risk of legal issues.
+
+**6. b. Ensures compliance with legal requirements**\
+Explanation: Data governance focuses on legal and ethical data usage.
+
